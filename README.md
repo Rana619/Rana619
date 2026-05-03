@@ -21,7 +21,7 @@ src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea795
 - ⚡ Fun fact **I think I’m funny, but my code is serious business!**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p display="flex" align="left">
 <a href="https://twitter.com/ranadeb46607092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranadeb46607092" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devrana619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devrana619" height="30" width="40" /></a>
 <a href="https://codesandbox.com/rana619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="rana619" height="30" width="40" /></a>
